@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Andrew**
 - 👀 I’m interested in **programming**
-- 🔨 I'm currently working on [messageList](https://github.com/JustAnCore/messageList)
+- 🔨 I'm currently working on [SliderJS](https://github.com/JustAnCore/SliderJS)
 - 🌱 I’m currently learning **front-end development and some C++**
 
 ___
