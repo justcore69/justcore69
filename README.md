@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Andrew**
 - 👀 I’m interested in **programming**
-- 🔨 I'm currently working on [SliderJS](https://github.com/JustAnCore/SliderJS)
+- 🔨 I'm currently working on my puzzle game
 - 🌱 I’m currently learning **Unity and C#**
 
 ___
