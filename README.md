@@ -1,9 +1,9 @@
 # Welcome to my Github!
 
 - 👋 Hi, I’m **Andrew**
-- 👀 I’m interested in **programming**
-- 🔨 I'm currently working on my puzzle game
-- 🌱 I’m currently learning **Unity and C#**
+- 👀 I’m interested in **programming, engineering and mathematics**
+- 🔨 I'm currently working on Console snake game
+- 🌱 I’m currently learning C#
 
 ___
 
