@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m **Andrew**
 - 👀 I’m interested in **programming, engineering and mathematics**
-- 🔨 I'm currently working on Console snake game
-- 🌱 I’m currently learning C#
+- 🔨 I'm currently working on [My Puzzle Game](https://discord.gg/bBcFNrt2NS)
+- 🌱 I’m currently learning Unity and C#
 
 ___
 
