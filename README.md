@@ -1,9 +1,8 @@
-# Welcome to my Github!
+# 👋 Hi, I’m **Andrew**
 
-- 👋 Hi, I’m **Andrew**
 - 👀 I’m interested in **programming, engineering and mathematics**
-- 🔨 I'm currently working on [My Puzzle Game](https://discord.gg/bBcFNrt2NS)
-- 🌱 I’m currently learning Unity and C#
+- 🔨 I'm currently working on my Flappy Bird interpritation using C++
+- 🌱 I’m currently learning Unity, C#, C++ and SFML
 
 ___
 
