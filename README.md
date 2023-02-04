@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Andrew**
 
 - 👀 I’m interested in **programming, engineering and mathematics**
-- 🔨 I'm currently working on my Flappy Bird interpritation using C++
+- 🔨 I'm currently working on my Scientific project on neural networks
 - 🌱 I’m currently learning Machine Learning and Python
 
 ___
