@@ -1,8 +1,8 @@
 # 👋 Hi, I’m **Andrew**
 
 - 👀 I’m interested in **programming, engineering and mathematics**
-- 🔨 I'm currently working on my Scientific project on neural networks
-- 🌱 I’m currently learning Machine Learning and Python
+- 🔨 I'm currently working on simple 3D renderer
+- 🌱 I’m currently learning OpenGL and C++
 
 ___
 
