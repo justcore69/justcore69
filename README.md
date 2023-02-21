@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Andrew**
 
 - 👀 I’m interested in **programming, engineering and mathematics**
-- 🔨 I'm currently working on raycasting game engine
+- 🔨 I'm currently working on my own 2D physics engine
 - 🌱 I’m currently learning OpenGL and C++
 
 ___
