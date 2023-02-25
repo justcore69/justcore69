@@ -1,8 +1,14 @@
 # 👋 Hi, I’m **Andrew**
 
+___
+
 - 👀 I’m interested in **programming, engineering and mathematics**
 - 🔨 I'm currently working on my own 2D physics engine
 - 🌱 I’m currently learning OpenGL and C++
+
+___
+
+- ☕ [You can buy me a cup of hot coffee!](https://www.buymeacoffee.com/piecEofSoil)
 
 ___
 
