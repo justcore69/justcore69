@@ -3,7 +3,7 @@
 ___
 
 - 👀 I’m interested in **programming, engineering and mathematics**
-- 🔨 I'm currently working on my own 2D physics engine
+- 🔨 I'm currently working on my own 2D game engine
 - 🌱 I’m currently learning OpenGL and C++
 
 ___
