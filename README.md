@@ -16,6 +16,6 @@ ___
 ![](https://www.codewars.com/users/JustAnCore/badges/small)
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,visualstudio,vscode,unity,git,github,python,js,jquery,html,css,ps,arduino,blender,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,visualstudio,vscode,unity,git,python,html,css,js,arduino)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lebedevcode&layout=compact&hide=purebasic)](https://github.com/anuraghazra/github-readme-stats)
