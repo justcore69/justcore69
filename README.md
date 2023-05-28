@@ -8,7 +8,7 @@ ___
 
 ___
 
-![](https://komarev.com/ghpvc/?username=JustAnCore)
+![](https://komarev.com/ghpvc/?username=calmlygrass)
 ![](https://www.codewars.com/users/JustAnCore/badges/small)
 
 ### My skills:
