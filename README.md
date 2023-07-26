@@ -2,9 +2,8 @@
 
 ___
 
-- 👀 I’m interested in **programming, electrical engineering and mathematics**
-- 🔨 I'm currently working on my own 2D game engine
-- 🌱 I’m currently learning OpenGL and C++
+- 🔨 Currently working on my Unity puzzle game
+- 🌱 Currently learning HLSL
 
 ___
 
