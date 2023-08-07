@@ -3,7 +3,7 @@
 ___
 
 - 🔨 Currently working on my Unity puzzle game
-- 🌱 Currently learning HLSL
+- 🌱 Currently learning Unity's SRP
 
 ___
 
