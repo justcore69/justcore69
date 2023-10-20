@@ -2,8 +2,9 @@
 
 ___
 
-- 🔨 Currently working on my Unity puzzle game
-- 🔢 Studying pre-calculus
+Currently do:
+- 🔨 Learn OpenGL and C++
+- 🔢 Study Calculus I
 
 ___
 
