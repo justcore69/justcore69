@@ -3,8 +3,8 @@
 ___
 
 Currently do:
-- 🔨 Learn OpenGL and C++
-- 🔢 Study Calculus I
+- :feelsgood: Exercise in cp
+- :feelsgood: Study Calculus I
 
 ___
 
