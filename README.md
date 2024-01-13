@@ -3,7 +3,7 @@
 ___
 
 Currently do:
-- :feelsgood: Exercise in cp
+- :feelsgood: Exercise in CP
 - :feelsgood: Study Calculus I
 
 ___
