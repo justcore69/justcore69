@@ -3,8 +3,8 @@
 ___
 
 Currently do:
-- :feelsgood: Exercise in CP
-- :feelsgood: Study Calculus I
+- :feelsgood: Study Math
+- :feelsgood: Drink coffee
 
 ___
 
