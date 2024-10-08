@@ -3,8 +3,9 @@
 ___
 
 Currently do:
-- :feelsgood: Study Computer Science
-- :feelsgood: Drink coffee
+- :feelsgood: Develop Games
+- :feelsgood: Study Linear Algebra 
+- :feelsgood: Drink Coffee 
 
 ___
 
